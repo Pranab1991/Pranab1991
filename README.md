@@ -5,11 +5,11 @@
 I am passionate software developer with ability to architect, design and implement applications independently. I have industrial experience in:
 - Full stack development
 - SOA & micro service development
-- Cloudification of application with the vision of high availabilty, scability and resilience design.
+- Cloudification of application with the vision of high availabilty, scability and resilience design.<br>
 My coding is not limited to the work recieved as part of my job requirment. I am also passionate about: 
 - Algorithms and Datastructure
 - Competative Programing
-- System design
+- System design<br>
 My work in this Github account reflects this aspect.  
 
 <!--
