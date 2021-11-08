@@ -6,7 +6,7 @@ I am passionate software developer with ability to architect, design and impleme
 - Full stack development
 - SOA & micro service development
 - Cloudification of application with the vision of high availabilty, scability and resilience design.<br><br>
-My coding is not limited to the work recieved as part of my job requirment. I am also passionate about: 
+U+1F916 My coding is not limited to the work recieved as part of my job requirment. I am also passionate about: 
 - Algorithms and Datastructure
 - Competative Programing
 - System design<br><br>
